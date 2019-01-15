@@ -17,7 +17,7 @@ int main()
  cout<<"Enter the base: "<<endl;
  cin>>base;
  cout<<"The number in base 10 :"<<toDeci(str, base)<<endl;
- system("PAUSE");//ca sa nu inchida fereastra cu output-ul
+ 
     
  return 0;
 }
